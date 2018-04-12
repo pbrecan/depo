@@ -1,0 +1,2 @@
+# depo
+ismek proje sınıfı
